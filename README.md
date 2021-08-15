@@ -1,17 +1,8 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+![image](https://user-images.githubusercontent.com/86535678/129487522-3fdeece7-fdbf-4d86-890a-1cba73f18db0.png)
 
-### Date created
-Include the date you created this project and README file.
+Created by Lomy Op
+This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Project Submission
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks
 
